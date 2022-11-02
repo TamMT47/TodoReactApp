@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/TamMT47/TodoReactApp/static/css/main.5f361e03.chunk.css",
-    "main.js": "/TamMT47/TodoReactApp/static/js/main.889e1a28.chunk.js",
-    "main.js.map": "/TamMT47/TodoReactApp/static/js/main.889e1a28.chunk.js.map",
-    "runtime-main.js": "/TamMT47/TodoReactApp/static/js/runtime-main.8a3cf6fc.js",
-    "runtime-main.js.map": "/TamMT47/TodoReactApp/static/js/runtime-main.8a3cf6fc.js.map",
-    "static/js/2.339e30f9.chunk.js": "/TamMT47/TodoReactApp/static/js/2.339e30f9.chunk.js",
-    "static/js/2.339e30f9.chunk.js.map": "/TamMT47/TodoReactApp/static/js/2.339e30f9.chunk.js.map",
+    "main.css": "/TamMT47/TodoReactApp/static/css/main.d1b05096.chunk.css",
+    "main.js": "/TamMT47/TodoReactApp/static/js/main.43bdea00.chunk.js",
+    "main.js.map": "/TamMT47/TodoReactApp/static/js/main.43bdea00.chunk.js.map",
+    "runtime-main.js": "/TamMT47/TodoReactApp/static/js/runtime-main.379b34ba.js",
+    "runtime-main.js.map": "/TamMT47/TodoReactApp/static/js/runtime-main.379b34ba.js.map",
+    "static/js/2.93c1a276.chunk.js": "/TamMT47/TodoReactApp/static/js/2.93c1a276.chunk.js",
+    "static/js/2.93c1a276.chunk.js.map": "/TamMT47/TodoReactApp/static/js/2.93c1a276.chunk.js.map",
     "index.html": "/TamMT47/TodoReactApp/index.html",
-    "precache-manifest.221e09d3e55994321549550efda57c03.js": "/TamMT47/TodoReactApp/precache-manifest.221e09d3e55994321549550efda57c03.js",
+    "precache-manifest.398f8b329b175ba94667307abf9f449b.js": "/TamMT47/TodoReactApp/precache-manifest.398f8b329b175ba94667307abf9f449b.js",
     "service-worker.js": "/TamMT47/TodoReactApp/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/TamMT47/TodoReactApp/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.339e30f9.chunk.js.LICENSE.txt": "/TamMT47/TodoReactApp/static/js/2.339e30f9.chunk.js.LICENSE.txt"
+    "static/css/main.d1b05096.chunk.css.map": "/TamMT47/TodoReactApp/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.93c1a276.chunk.js.LICENSE.txt": "/TamMT47/TodoReactApp/static/js/2.93c1a276.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8a3cf6fc.js",
-    "static/js/2.339e30f9.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.889e1a28.chunk.js"
+    "static/js/runtime-main.379b34ba.js",
+    "static/js/2.93c1a276.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.43bdea00.chunk.js"
   ]
 }
